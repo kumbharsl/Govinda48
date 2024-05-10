@@ -10,6 +10,10 @@
 - 💬 Ask me about **Python, IoT and Flutter...** 
 
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
+- 
+- 📫 My LinkedIn id **www.linkedin.com/in/sagar-kumbhar-3bab60280**
+- 
+- 📫 My Portfolio **https://sagarkumbhar.netlify.app/**
 
 - ⚡ Fun fact **I create mobile application...**
 
