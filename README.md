@@ -11,14 +11,14 @@
 
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
   
-- 📫 My LinkedIn id **www.linkedin.com/in/sagar-kumbhar-3bab60280**
-  
-- 📫 My Portfolio **https://sagarkumbhar.netlify.app/**
 
 - ⚡ Fun fact **I create mobile application...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 My LinkedIn id **www.linkedin.com/in/sagar-kumbhar-3bab60280**
+  
+- 📫 My Portfolio **https://sagarkumbhar.netlify.app/**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
