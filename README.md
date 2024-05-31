@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- 📫Social site **---**
+- 📫Social site **--**
   
 - 📫 My LinkedIn id **www.linkedin.com/in/sagar-kumbhar-3bab60280**
 - 📫 My Portfolio **https://sagarkumbhar.netlify.app/**
