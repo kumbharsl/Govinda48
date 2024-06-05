@@ -12,7 +12,7 @@
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
   
 
-- ⚡ Fun fact **I create mobile application...**
+- ⚡ Fun fact **I create mobile application....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
