@@ -5,14 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=govinda48" alt="govinda48" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter and Python ML**
+- 🌱 I’m currently learning **Mongo db and Mysql**
 
 - 💬 Ask me about **Python, IoT and Flutter...** 
 
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
   
-
-- ⚡ Fun fact **I create mobile application...**
+- ⚡ Work **I create mobile application...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
