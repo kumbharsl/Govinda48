@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
   
+- 📃 my resume **https://drive.google.com/file/d/1CVPcAEL-5Jg93Ew_W8diWFpWZKIKPzgK/view?usp=drive_link**
+  
   **I create mobile application...**
 
 <h3 align="left">Connect with me:</h3>
