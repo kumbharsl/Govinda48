@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Mongo db and Mysql**
 
-- 💬 Ask me about **Python, IoT and Flutter....** 
+- 💬 Ask me about **Python, IoT and Flutter...** 
 
 - 📫 How to reach me **sagarkumbhar2018@gmail.com**
   
